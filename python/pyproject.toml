@@ -1,6 +1,6 @@
 [project]
 name = "lambda_sigterm"
-version = "0.1.0"
+version = "0.1.1"
 description = "Creates a noop Lambda Extension which allows Lambda to receive SIGTERM events"
 authors = [
   { name = "Loren Howard", email = "loren@plutonium.io" },
