@@ -1,6 +1,6 @@
 [project]
 name = "lambda_sigterm"
-version = "0.1.1"
+version = "0.1.2"
 description = "Creates a noop Lambda Extension which allows Lambda to receive SIGTERM events"
 authors = [
   { name = "Loren Howard", email = "loren@plutonium.io" },
@@ -14,7 +14,6 @@ classifiers = [
 ]
 requires-python = ">=3.7"
 dependencies = [
-  "urllib3",
 ]
 
 [project.urls]
